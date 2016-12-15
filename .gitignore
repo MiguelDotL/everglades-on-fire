@@ -1,3 +1,8 @@
+!.gitkeep
+.DS_Store
+.idea
 config/
+logs/*
 node_modules/
 public/bundle.js
+tmp
