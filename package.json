@@ -1,0 +1,11 @@
+{
+  "name": "everglades-on-fire",
+  "version": "1.0.0",
+  "description": "Code for FTL Civic Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MiguelDotL",
+  "license": "MIT"
+}
